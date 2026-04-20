@@ -1,0 +1,16 @@
+{
+  "burst_groups": [
+    {
+      "group_id": "nature",
+      "image_ids": ["img001", "img002", "img003"],
+      "ground_truth_best": "img001",
+      "rationale": "img001 is the sharpest and most centered composition"
+    },
+    {
+      "group_id": "animals",
+      "image_ids": ["img004", "img005"],
+      "ground_truth_best": "img005",
+      "rationale": "img005 captures a peak action moment with better composition"
+    }
+  ]
+}

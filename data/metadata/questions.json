@@ -1,0 +1,28 @@
+{
+  "default_questions": [
+    "What objects are visible in this image?",
+    "Is this scene indoors or outdoors?",
+    "What is the main subject of this image?",
+    "What text is visible in the image?",
+    "Describe the lighting conditions.",
+    "What is the person doing?",
+    "How many people are in the image?"
+  ],
+  "per_image_questions": {
+    "img006": [
+      "How many people are in the meeting?",
+      "What objects are on the table?",
+      "Are the people looking at screens?"
+    ],
+    "img007": [
+      "What text is visible on the signs?",
+      "What type of intersection is this?",
+      "What direction does the main sign point?"
+    ],
+    "img008": [
+      "How many people are in the photo?",
+      "What is the approximate age of the children?",
+      "What is behind the family?"
+    ]
+  }
+}

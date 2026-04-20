@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+.env
+*.egg-link
+
+# PyTest / Coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy / Ruff / Pyright
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+data/evaluations.db
+data/results/*.parquet
+data/results/*.csv
+model_cache/
+*.caffemodel
+*.pb
+*.prototxt
+
+# Streamlit
+.streamlit/
+
+# Keep directory structure
+!data/results/.gitkeep
+!data/images/.gitkeep
+!data/metadata/

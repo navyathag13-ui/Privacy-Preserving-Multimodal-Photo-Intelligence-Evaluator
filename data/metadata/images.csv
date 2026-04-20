@@ -1,0 +1,11 @@
+id,filename,group_id,tags,ground_truth_caption
+img001,beach_sunset.jpg,nature,"outdoor,sunset,water","A golden sunset over a calm ocean with silhouetted palm trees"
+img002,beach_sunset2.jpg,nature,"outdoor,sunset,water","A slightly blurred version of the same beach sunset"
+img003,beach_sunset3.jpg,nature,"outdoor,sunset,water","The same beach sunset from a slightly different angle"
+img004,dog_park.jpg,animals,"outdoor,dog,park","A golden retriever running through a green park"
+img005,dog_park2.jpg,animals,"outdoor,dog,park","The same dog mid-leap catching a frisbee"
+img006,office_meeting.jpg,indoor,"indoor,people,meeting","Three people sitting around a conference table with laptops"
+img007,street_sign.jpg,urban,"outdoor,text,urban","A street intersection with visible road signs"
+img008,family_photo.jpg,people,"indoor,people,faces","A family of four posing in front of a fireplace"
+img009,food_plate.jpg,food,"indoor,food","A plate of pasta with marinara sauce garnished with basil"
+img010,city_skyline.jpg,urban,"outdoor,buildings,night","City skyline at night with lit-up skyscrapers reflecting in water"
