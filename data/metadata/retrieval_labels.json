@@ -1,0 +1,39 @@
+{
+  "queries": [
+    {
+      "query": "dog in a park",
+      "relevant_image_ids": ["img004", "img005"],
+      "description": "Images of a dog playing outdoors"
+    },
+    {
+      "query": "sunset over water",
+      "relevant_image_ids": ["img001", "img002", "img003"],
+      "description": "Beach sunset images"
+    },
+    {
+      "query": "people in a meeting",
+      "relevant_image_ids": ["img006"],
+      "description": "Office or conference room meeting"
+    },
+    {
+      "query": "city at night",
+      "relevant_image_ids": ["img010"],
+      "description": "Night cityscape or skyline"
+    },
+    {
+      "query": "text on signs outdoor",
+      "relevant_image_ids": ["img007"],
+      "description": "Street signs or outdoor text"
+    },
+    {
+      "query": "family portrait",
+      "relevant_image_ids": ["img008"],
+      "description": "Family photo with multiple people"
+    },
+    {
+      "query": "food on a plate",
+      "relevant_image_ids": ["img009"],
+      "description": "Plated food or meal"
+    }
+  ]
+}
